@@ -1,0 +1,1 @@
+# AWS-CI-CD-Pipeline-for-Automated-Static-Website-Deployment
