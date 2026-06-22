@@ -6,7 +6,6 @@ Configured AppSpec lifecycle hooks and Bash scripts to manage deployment activit
 Installed and managed AWS CodeDeploy Agent on Ubuntu EC2 instances.
 Implemented artifact storage and deployment workflow using Amazon S3.
 Reduced deployment time and improved release consistency through automation.
-Demonstrated hands-on experience with AWS Developer Tools, Linux administration, and DevOps practices.
 
 Services Used
 AWS CodePipeline
